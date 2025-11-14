@@ -1,0 +1,207 @@
+{
+	"info": {
+		"_postman_id": "48483289-6b8a7e72-8b48-4cfc-9ade-738b19fb718b",
+		"name": "Loan App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "WorkFlow",
+			"item": [
+				{
+					"name": "DraftAdmin create",
+					"id": "48483289-e70a5af3-4750-4448-a924-fde664af8df9",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
+			"id": "48483289-9764bce9-d7cb-45e8-b745-f5f48aa52df9"
+		},
+		{
+			"name": "Register",
+			"id": "48483289-7a255cce-6d35-41a1-8180-9ceb33897505",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"id": "48483289-a607a7a3-1550-4abd-b3f9-5ab9ac27d50b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Logout",
+			"id": "48483289-3d6ba21b-3fd4-4827-8df0-27b82570b73d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Admin Create Department",
+			"id": "48483289-842b58d3-64dc-42a1-8016-4aa2dd1e5809",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get User Data",
+			"id": "48483289-4aa99aab-40c8-42e7-b731-ade85363ce02",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Admin Create User",
+			"id": "48483289-00434e1a-4a62-46fc-85e8-2ee65990e2a9",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Admin Update User Detail",
+			"id": "48483289-d66aca74-d989-4276-8bc7-204a21eb0078",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Admin get user details",
+			"id": "48483289-1a94d10b-ab0e-4df5-9ae5-61feaa1fbec0",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Department",
+			"id": "48483289-b0bf2389-9c7e-460c-b2da-6139a97f8405",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Department By Id",
+			"id": "48483289-50115ad1-9d97-4ff1-803c-09628da56607",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Reception Create Data",
+			"id": "48483289-8f69be0b-d66a-43cb-9cfe-5022f4fbfbec",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Reception Update Data",
+			"id": "48483289-c09cbada-2533-49c5-953b-c1b5cce3770c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Reception Delete Data",
+			"id": "48483289-6d9cb760-0af7-46a8-ba40-023d47ded90c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "reception get single data",
+			"id": "48483289-864ecbf4-eb28-4362-90c1-b0d1e5365be7",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Reception Get List of All Document",
+			"id": "48483289-e9687299-4713-4d92-8c72-4f49da0f0087",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
